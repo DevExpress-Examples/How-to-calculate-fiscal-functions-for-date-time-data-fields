@@ -35,7 +35,7 @@ Call the [CriteriaOperator.RegisterCustomFunction](https://docs.devexpress.com/C
 - [DateTime](https://docs.microsoft.com/en-us/dotnet/api/system.datetime?view=net-5.0)
 - [Expression Constants, Operators, and Functions](https://docs.devexpress.com/Dashboard/400122/common-features/advanced-analytics/expression-constants-operators-and-functions)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dashboard-calculate-fiscal-functions-for-date-time-data-fields&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dashboard-calculate-fiscal-functions-for-date-time-data-fields&~~~was_helpful=no)
 
